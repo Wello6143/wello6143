@@ -1,16 +1,33 @@
-### Hi there 👋
+# Hi! I'm Wello!
 
-<!--
-**Wello6143/wello6143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Simply, I'm a(n):
 
-Here are some ideas to get you started:
+* 🧑‍💻 Linux and computing enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🥳 Half weaboo
+
+* 💻 Intermediate coder
+
+* 🇻🇳 Vietnamese
+
+* 🐧 Co-founder of a hobby-based team, Weeb/Linux
+
+* 🤠 Red Hat fan
+
+Contact me via:
+
+* 🐦 Twitter (most active): @wello6143
+
+* 📘 Facebook: wello6143
+
+* 💬 Discord: Wello6143#2455
+
+* 📧 Email: wello6143@outlook.com
+
+More information (based on GitHub recommendation):
+
+* 🔭 I’m currently working on: wavey, BambooSound and uwuNetwork
+
+* 🌱 I’m currently learning: Rust, JS/TS, MERN stack, Linux.
+
+* ⚡ Fun fact: I'm kinda lazy, I think
