@@ -6,7 +6,7 @@ Simply, I'm a(n):
 
 * 🥳 Half weaboo
 
-* 💻 Intermediate coder
+* 💻 Intermediate level coder
 
 * 🇻🇳 Vietnamese
 
@@ -31,3 +31,5 @@ More information (based on GitHub recommendation):
 * 🌱 I’m currently learning: Rust, JS/TS, MERN stack, Linux.
 
 * ⚡ Fun fact: I'm kinda lazy, I think
+
+Please note: All of my currently works are being developed on Weeb/Linux Github Organization, not my own account.
