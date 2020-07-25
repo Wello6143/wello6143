@@ -6,7 +6,15 @@ Simply, I'm a(n):
 
 * 🥳 Half weaboo
 
-* 💻 Intermediate level coder
+* 💻 Intermediate level coder, with experiences in:
+  
+  * Web: JS (intermediate)
+  
+  * Desktop: Rust (just getting started)
+  
+  * Server: NodeJS (newbie) and Deno (had an eye on it)
+  
+  * Mobile: None :(
 
 * 🇻🇳 Vietnamese
 
@@ -18,7 +26,7 @@ Contact me via:
 
 * 🐦 Twitter (most active): @wello6143
 
-* 📘 Facebook: wello6143
+* 📘 Facebook: wello6143 (dangerously inactive)
 
 * 💬 Discord: Wello6143#2455
 
@@ -31,5 +39,7 @@ More information (based on GitHub recommendation):
 * 🌱 I’m currently learning: Rust, JS/TS, MERN stack, Linux.
 
 * ⚡ Fun fact: I'm kinda lazy, I think
+
+Currently using 🎩 Fedora 32 workstation on work laptop and 🧑‍🤝‍🧑 Ubuntu LTS for home server.
 
 Please note: All of my currently works are being developed on Weeb/Linux Github Organization, not my own account.
