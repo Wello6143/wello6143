@@ -4,7 +4,7 @@ Simply, I'm a(n):
 
 * 🧑‍💻 Linux and computing enthusiast
 
-* 🥳 Half weaboo
+* 🥳 Half weeaboo
 
 * 💻 Intermediate level coder, with experiences in:
   
