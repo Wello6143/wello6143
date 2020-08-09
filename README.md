@@ -38,6 +38,6 @@ More information (based on GitHub recommendation):
 
 * ⚡ Fun fact: I'm kinda lazy, I think
 
-Currently using 🎩 Fedora 32 workstation on work laptop and 🧑‍🤝‍🧑 Ubuntu LTS for home server.
+Currently using 🎩 Fedora 32 for both working laptop and home server.
 
 Please note: All of my currently works are being developed on Weeb/Linux Github Organization, not my own account.
