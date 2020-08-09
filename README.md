@@ -26,8 +26,6 @@ Contact me via:
 
 * 🐦 Twitter (most active): @wello6143
 
-* 📘 Facebook: wello6143 (dangerously inactive)
-
 * 💬 Discord: Wello6143#2455
 
 * 📧 Email: wello6143@outlook.com
