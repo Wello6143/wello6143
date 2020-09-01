@@ -24,7 +24,7 @@ Simply, I'm a(n):
 
 Contact me via:
 
-* 🐦 Twitter (most active): @wello6143
+* 🐦 Twitter (most actively): @wello6143
 
 * 💬 Discord: Wello6143#2455
 
@@ -38,6 +38,6 @@ More information (based on GitHub recommendation):
 
 * ⚡ Fun fact: I'm kinda lazy, I think
 
-Currently using 🎩 Fedora 32 for both working laptop and home server.
+Currently using 🧑‍🤝‍🧑 Ubuntu LTS for both working laptop and home server.
 
 Please note: All of my currently works are being developed on Weeb/Linux Github Organization, not my own account.
