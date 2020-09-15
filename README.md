@@ -1,5 +1,7 @@
 # Hi! I'm Wello!
 
+###### Note: Segoe UI Emoji font in Windows 10 may cause emojis in this profile introduction display incorrectly.
+
 Simply, I'm a(n):
 
 * 🧑‍💻 Linux and computing enthusiast
