@@ -18,9 +18,7 @@ Simply, I'm a(n):
 
 * 🇻🇳 Vietnamese
 
-* 🐧 Co-founder of a hobby-based team, Weeb/Linux
-
-* 🤠 Red Hat fan
+* 🐧 Co-founder of a hobby-based team, Weeb/Linux and Videlop Community
 
 Contact me via:
 
@@ -38,6 +36,6 @@ More information (based on GitHub recommendation):
 
 * ⚡ Fun fact: I'm kinda lazy, I think
 
-Currently using 🧑‍🤝‍🧑 Ubuntu LTS for both working laptop and home server.
+Currently using Windows 10 for my workstation laptop and 🧑‍🤝‍🧑 Ubuntu LTS for home server.
 
 Please note: All of my currently works are being developed on Weeb/Linux Github Organization, not my own account.
