@@ -1,6 +1,6 @@
 # Hi, I'm Wello!
 
-###### Yes, that's my netizen name.
+#### Yes, that's my netizen name.
 
 - owo? uwu.
 
@@ -8,7 +8,7 @@
 
 - Suffering with Android development, C++, math, Engrisk grammah and physic(k).
 
-###### Contact with me
+#### Contact with me
 
 You can make/keep contact with me via:
 
@@ -18,6 +18,6 @@ You can make/keep contact with me via:
 
 - [Facebook](https://fb.me/wellothedev) (least active, Vietnamese only)
 
-###### Some Github stuff
+#### Some Github stuff
 
 [![Wello's Github stats](https://github-readme-stats.vercel.app/api?username=wello6143)](https://github.com/anuraghazra/github-readme-stats)
