@@ -1,5 +1,8 @@
 # Hi, I'm Wello!
 
+[https://img.shields.io/badge/Fedora-Workstation-blue?style=flat&logo=fedora](https://getfedora.org)
+[https://img.shields.io/badge/CentOS-Server-blue?style=flat&logo=centos](https://centos.rip)
+
 ###### Yes, that's my netizen name.
 
 - owo? uwu.
