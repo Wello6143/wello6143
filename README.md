@@ -2,14 +2,17 @@
 
 [![](https://img.shields.io/badge/Fedora-Workstation-blue?style=flat&logo=fedora)](https://getfedora.org)
 [![](https://img.shields.io/badge/CentOS-Server-darkblue?style=flat&logo=centos)](https://centos.rip)
+[![](https://img.shields.io/badge/Android-Phone-lightgreen?style=flat&logo=android)](https://www.android.com)
 
-###### Yes, that's my netizen name.
+###### Wello? Yes, that's my netizen name.
 
 - owo? uwu.
 
 - He
 
-- Suffering with Android development, C++, math, Engrisk grammah and physic(k).
+- Suffering with Android development, C++, math, Engrisk grammah and physicc.
+
+- Red Hat certified anime catgirl engineer.
 
 #### Contact with me
 
