@@ -1,6 +1,7 @@
 # Hi, I'm Wello!
 
-[![](https://img.shields.io/badge/Fedora-Workstation-blue?style=flat&logo=fedora)](https://getfedora.org)
+[![](https://img.shields.io/badge/Windows-Laptop-blue?style=flat&logo=windows)](https://getfedora.org)
+[![](https://img.shields.io/badge/Fedora-Workspace-blue?style=flat&logo=fedora)](https://getfedora.org)
 [![](https://img.shields.io/badge/CentOS-Server-darkblue?style=flat&logo=centos)](https://centos.rip)
 [![](https://img.shields.io/badge/Android-Phone-lightgreen?style=flat&logo=android)](https://www.android.com)
 
