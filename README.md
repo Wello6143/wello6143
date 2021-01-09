@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/Fedora-Workstation%20Laptop-blue?style=flat&logo=fedora&logoColor=blue)](https://getfedora.org)
 [![](https://img.shields.io/badge/Tumbleweed-Virtual%20Machine-green?style=flat&logo=opensuse)](https://software.opensuse.org/distributions/tumbleweed)
 [![](https://img.shields.io/badge/CentOS-Server-darkblue?style=flat&logo=centos)](https://centos.rip)
-[![](https://img.shields.io/badge/IDE%2FText%20Editor-Visual%20Studio%20Code-blue?style=flat&logo=visual-studio-code&logoColor=00d77d)](https://code.visualstudio.com)
+[![](https://img.shields.io/badge/Visual%20Studio%20Code-IDE%2FText%20Editor-blue?style=flat&logo=visual-studio-code&logoColor=00d77d)](https://code.visualstudio.com)
 [![](https://img.shields.io/badge/Android-Phone-lightgreen?style=flat&logo=android)](https://www.android.com)
 
 ###### Wello? Yes, that's my netizen name.
