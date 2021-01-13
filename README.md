@@ -7,7 +7,7 @@
 [![](https://img.shields.io/badge/Visual%20Studio%20Code-IDE%2FText%20Editor-blue?style=flat&logo=visual-studio-code&logoColor=00d77d)](https://code.visualstudio.com)
 [![](https://img.shields.io/badge/Android-Phone-lightgreen?style=flat&logo=android)](https://www.android.com)
 
-###### Wello? Yes, that's my netizen name.
+## Wello? Yes, that's my netizen name.
 
 - owo? uwu.
 
@@ -21,7 +21,7 @@
 
 - Well, it actually is Fedora inside Windows 10 using WSL 2. I found learning programming on Windows is somewhat really suck and neither cygwin nor msys2 fits my style so I ended up with it.
 
-#### Contact with me
+## Contact with me
 
 You can make/keep contact with me via:
 
@@ -31,6 +31,6 @@ You can make/keep contact with me via:
 
 - [Facebook](https://fb.me/wellothedev) (least active, Vietnamese only)
 
-#### Some Github stuff
+## Some Github stuff
 
 [![Wello's Github stats](https://github-readme-stats.vercel.app/api?username=wello6143)](https://github.com/anuraghazra/github-readme-stats)
