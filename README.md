@@ -1,7 +1,8 @@
 # Hi, I'm Wello!
 
-[![](https://img.shields.io/badge/Fedora-Workstation%20Laptop-blue?style=flat&logo=fedora&logoColor=blue)](https://getfedora.org)
-[![](https://img.shields.io/badge/Tumbleweed-Virtual%20Machine-green?style=flat&logo=opensuse)](https://software.opensuse.org/distributions/tumbleweed)
+#### Technologies I'm using
+[![](https://img.shields.io/badge/Windows%2010-Workstation%20Laptop-blue?style=flat&logo=windows&logoColor=blue)](https://www.microsoft.com/en-us/software-download/windows10)
+[![](https://img.shields.io/badge/Fedora-Virtualized%20Workload-blue?style=flat&logo=fedora)](https://getfedora.org)
 [![](https://img.shields.io/badge/CentOS-Server-darkblue?style=flat&logo=centos)](https://centos.rip)
 [![](https://img.shields.io/badge/Visual%20Studio%20Code-IDE%2FText%20Editor-blue?style=flat&logo=visual-studio-code&logoColor=00d77d)](https://code.visualstudio.com)
 [![](https://img.shields.io/badge/Android-Phone-lightgreen?style=flat&logo=android)](https://www.android.com)
@@ -15,6 +16,10 @@
 - Suffering with Android development, C++, math, Engrisk grammah and physicc.
 
 - Red Hat certified anime catgirl engineer.
+
+###### What's your "virtualized workload"?
+
+- Well, it actually is Fedora inside Windows 10 using WSL 2. I found learning programming on Windows is somewhat really suck and neither cygwin nor msys2 fits my style so I ended up with it.
 
 #### Contact with me
 
