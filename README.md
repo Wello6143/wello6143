@@ -6,6 +6,8 @@
 [![](https://img.shields.io/badge/Visual%20Studio%20Code-IDE%2FText%20Editor-blue?style=flat&logo=visual-studio-code&logoColor=00d77d)](https://code.visualstudio.com)
 [![](https://img.shields.io/badge/Android-Phone-lightgreen?style=flat&logo=android)](https://www.android.com)
 
+[![](https://img.shields.io/badge/Send%20donation-Paypal-blue?style=flat&logo=paypal)](https://paypal.me/iamwello)
+
 ## Wello? Yes, that's my netizen name.
 
 - owo? uwu.
@@ -21,3 +23,4 @@ You can make/keep contact with me via:
 - Discord: Wello6143#2455
 
 - [Facebook](https://fb.me/wellothedev) (least active, Vietnamese only)
+
