@@ -20,8 +20,6 @@ You can make/keep contact with me via:
 
 - [Twitter](https://twitter.com/wello6143)
 
-- Discord: Wello6143#2455
-
-- [Facebook](https://fb.me/wellothedev) (least active, Vietnamese only)
+- Discord: wello6143#2455
 
 - Matrix: [@wello6143:matrix.org](https://matrix.to/#/@wello6143:matrix.org)
